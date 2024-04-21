@@ -1,0 +1,6 @@
+build
+source/config.h
+source/my_fsdata.c
+.ccls-cache
+compile_commands.json
+external
